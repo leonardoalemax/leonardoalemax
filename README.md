@@ -52,6 +52,20 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>
 
+&nbsp;
+&nbsp;
+
+## 🚧&nbsp;Passion Projects
+
+### Game of Life
+
+[![life](https://github.com/leonardoalemax/life/raw/master/life.gif "life")](https://leonardoalemax.github.io/life/)
+
+A implementation in react using react hooks of [John Conway's game of life](https://pt.wikipedia.org/wiki/John_Conway).
+
+- [code](https://github.com/leonardoalemax/life)
+- [demo](https://leonardoalemax.github.io/life/)
+
 ## 💬&nbsp;Let's get in touch
 
 <p align='left'>
