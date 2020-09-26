@@ -14,18 +14,28 @@
 <a href="#"><img height="40" src="/icons/typescript.png"/></a>
 <a href="#"><img height="40" src="/icons/html.png"/></a>
 <a href="#"><img height="40" src="/icons/css3.png"/></a>
+<a href="#"><img height="40" src="/icons/sass.png"/></a>
 <a href="#"><img height="40" src="/icons/nodejs.png"/></a>
+<a href="#"><img height="40" src="/icons/ruby.png"/></a>
+
 <div>
 
 ## ⚙️&nbsp;Frameworks
 
-<div></div>
+<div>
+  <a href="#"><img height="40" src="/icons/react.png"/></a>
+  <a href="#"><img height="40" src="/icons/redux.png"/></a>
+  <a href="#"><img height="40" src="/icons/styled-components.png"/></a>   
+  <a href="#"><img height="40" src="/icons/rails.png"/></a>
+</div>
 
 ## 🧰&nbsp;Tools
 
 <div>
 <a href="#"><img height="40" src="/icons/vscode.png"/></a>
 <a href="#"><img height="40" src="/icons/console.png"/></a>
+<a href="#"><img height="40" src="/icons/tmux.png"/></a>
+<a href="#"><img height="40" src="/icons/docker.png"/></a>
 <a href="#"><img height="40" src="/icons/git.png"/></a>
 <a href="#"><img height="40" src="/icons/heroku.png"/></a>
 <a href="#"><img height="40" src="/icons/figma.png"/></a>
@@ -33,7 +43,10 @@
 
 ## 📖&nbsp;Currently learning
 
-<div></div>
+<div>
+  <a href="#"><img height="40" src="/icons/gatsby.png"/></a>
+<a href="#"><img height="40" src="/icons/testing-lib.png"/></a>
+</div>
 
 ## 📈&nbsp;My GitHub stats
 
