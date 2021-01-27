@@ -50,9 +50,12 @@
 
 ## 📈&nbsp;My GitHub stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>
-&nbsp;&nbsp;
 ![leonardoalemax's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple)
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>  
+
+
 
 &nbsp;
 &nbsp;
