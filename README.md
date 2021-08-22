@@ -10,8 +10,6 @@
 - 💼&nbsp;Currently working remotely at <a href="https://github.com/Pagnet"> Blu</a>.
 
 <br/>
-<br/>
-<br/>
 
 <p align="center">
   <img src="icons/line.svg" />
