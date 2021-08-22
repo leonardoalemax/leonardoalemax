@@ -19,6 +19,9 @@
 <a href="#"><img height="40" src="/icons/ruby.png"/></a>
 
 <div>
+  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardoalemax)](https://git.io/streak-stats)
+
 
 ## ⚙️&nbsp;Frameworks
 
