@@ -13,19 +13,19 @@
 <br/>
 <br/>
 
-<center align="center">
+<p align="center">
   <img src="icons/line.svg" />
-</center>
+</p>
 
-<center align="center">
+<p align="center">
   <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
     <img src="http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700" />
   </a>
-</center>
+</p>
 
-<center align="center">
+<p align="center">
   <img src="icons/line.svg" />
-</center>
+</p>
 
 <table border="0" width="800"  align="center">
   <tr>
@@ -76,9 +76,9 @@
 </table>
 
 
-<center align="center">
+<p align="center">
   <img src="icons/line.svg" />
-</center>
+</p>
 
 
 ## ⚙️&nbsp;Frameworks
