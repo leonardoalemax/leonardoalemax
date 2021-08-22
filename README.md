@@ -20,7 +20,6 @@
 
 <div>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700)](https://git.io/streak-stats)
 
 
 ## ⚙️&nbsp;Frameworks
@@ -52,6 +51,9 @@
 </div>
 
 ## 📈&nbsp;My GitHub stats
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700)](https://git.io/streak-stats)
+
 
 ![leonardoalemax's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple)
 
