@@ -41,13 +41,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
 
-## 📖&nbsp;Currently learning
-
-<div>
-  <a href="#"><img height="40" src="/icons/gatsby.png"/></a>
-<a href="#"><img height="40" src="/icons/testing-lib.png"/></a>
-</div>
-
 ## 📈&nbsp;My GitHub stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700)](https://git.io/streak-stats)
