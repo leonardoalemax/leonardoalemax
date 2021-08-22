@@ -1,14 +1,29 @@
-# [![Header](/icons/header.svg "Leo Alemax")](https://github.com/leonardoalemax)
+# [![Header](/icons/header.svg "LeoAlemax")](https://github.com/leonardoalemax)
 
 
-## Hello! I'm a frontend software developer;
+# Hi there! <img src="icons/wave.gif" width="29px">
+
 
 - 👨‍💻&nbsp;I learned to code in 2006.
 - 🎓&nbsp;I studied bachelor in computer science up until 2010 at <a href="https://www.cesupa.br/"> CESUPA</a> (Belém, PA - Brazil).
 - 📪&nbsp;I living at São Paulo - Brazil.
 - 💼&nbsp;Currently working remotely at <a href="https://github.com/Pagnet"> Blu</a>.
 
-## 👅&nbsp;Languages
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<center>
+  <img src="icons/line.svg" />
+</center>
+
+<br/>
+<br/>
+
+
+## ![icon](/icons/icon.svg "icon") &nbsp;Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
