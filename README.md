@@ -20,6 +20,10 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700" />
   </a>
 </p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple"/>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>  
+</p>
 
 <p align="center">
   <img src="icons/line.svg" />
@@ -79,13 +83,9 @@
 </p>
 
 
-## ⚙️&nbsp;Frameworks
-
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-
-
 ## 🧰&nbsp;Tools
 
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
@@ -93,13 +93,3 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
-
-## 📈&nbsp;My GitHub stats
-
-
-![leonardoalemax's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple)
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>  
-
