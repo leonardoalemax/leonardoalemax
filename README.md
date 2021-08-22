@@ -1,4 +1,4 @@
-# [![Header](/icons/header.png "Header")](https://github.com/leonardoalemax)
+# [![Header](/icons/header.svg "Leo Alemax")](https://github.com/leonardoalemax)
 
 
 ## Hello! I'm a frontend software developer;
