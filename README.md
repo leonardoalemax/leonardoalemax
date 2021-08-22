@@ -12,38 +12,78 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-<center>
+<center align="center">
   <img src="icons/line.svg" />
 </center>
 
-<br/>
-<br/>
+<center align="center">
+  <a href="https://git.io/streak-stats" alt="GitHub Streak"> 
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700" />
+  </a>
+</center>
+
+<center align="center">
+  <img src="icons/line.svg" />
+</center>
+
+<table border="0" width="800"  align="center">
+  <tr>
+    <td> Languages </td>
+    <td> Freamworks </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <br/>
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" />
+    </td>
+ </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+      <br/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
+    </td>
+ </tr>
+ <tr>
+    <td>
+      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+    </td>
+ </tr>
+ <tr>
+    <td>
+      <img src="https://img.shields.io/badge/c++-%23CC342D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+    </td>
+ </tr>
+</table>
 
 
-## ![icon](/icons/icon.svg "icon") &nbsp;Languages
+<center align="center">
+  <img src="icons/line.svg" />
+</center>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## ⚙️&nbsp;Frameworks
 
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 ## 🧰&nbsp;Tools
@@ -58,8 +98,6 @@
   
 
 ## 📈&nbsp;My GitHub stats
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700)](https://git.io/streak-stats)
 
 
 ![leonardoalemax's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple)
