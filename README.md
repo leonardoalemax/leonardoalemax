@@ -1,6 +1,6 @@
 # [![Header](/icons/header.png "Header")](https://github.com/leonardoalemax)
 
-## 👋&nbsp;Hello! I'm a frontend software developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello! I'm a frontend software developer;)](https://git.io/typing-svg)
 
 - 👨‍💻&nbsp;I learned to code in 2006.
 - 🎓&nbsp;I studied bachelor in computer science up until 2010 at <a href="https://www.cesupa.br/"> CESUPA</a> (Belém, PA - Brazil).
