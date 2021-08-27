@@ -114,5 +114,6 @@
   <img src="icons/line.svg" />
 </p>
 
-<a href="https://www.exophase.com/user/leonardoalemax/"><img src="https://card.exophase.com/2/0/45875.png?1630033362"></a>
-
+<p align="center">
+  <a href="https://www.exophase.com/user/leonardoalemax/"><img src="https://card.exophase.com/2/0/45875.png?1630033362"></a>
+</p>
