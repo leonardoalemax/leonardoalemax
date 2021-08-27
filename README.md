@@ -20,6 +20,13 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=leonardoalemax&theme=monokai-metallian&hide_border=true&background=DD272700" />
   </a>
 </p>
+
+
+<p align="center">
+  <img src="icons/line.svg" />
+</p>
+
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple"/>  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>  
@@ -101,4 +108,11 @@
     </td>
   </tr>
 </table>
+
+
+<p align="center">
+  <img src="icons/line.svg" />
+</p>
+
+<a href="https://www.exophase.com/user/leonardoalemax/"><img src="https://card.exophase.com/2/0/45875.png?1630033362"></a>
 
