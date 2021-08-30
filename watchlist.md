@@ -1,68 +1,72 @@
 # 2021 watchlist
 
-- [x] Watchmen, Assistido [HBO Max] ⭐⭐⭐⭐⭐
-- [x] It Follows [Amazon Prime] ⭐⭐⭐⭐⭐
-- [x] Fleabag [Amazon Prime] ⭐⭐⭐⭐⭐
-- [x] Lovecraft County [HBO Max] ⭐⭐⭐⭐⭐
-- [x] Olimpiadas de Tokyo 2020 [Globo Play] ⭐⭐⭐⭐⭐
-- [x] Loki [Disney Plus] ⭐⭐⭐⭐⭐
-- [x] O Caso Evandro [Globo Play] ⭐⭐⭐⭐⭐
-- [x] Drive [Globo Play] ⭐⭐⭐⭐⭐
-- [x] O Gambito da Rainha [Netflix] ⭐⭐⭐⭐⭐
-- [x] Blade Runner 2049 [Netflix] ⭐⭐⭐⭐⭐
-- [x] Get Out [Netflix] ⭐⭐⭐⭐⭐
-- [x] Akira [Netflix] ⭐⭐⭐⭐⭐
-- [x] Vidas ao Vento [Netflix] ⭐⭐⭐⭐⭐
-- [x] Atypica: Temporada Final [Netflix] ⭐⭐⭐⭐⭐
-- [x] The Umbrella Academy: Temporada 2 [Netflix] ⭐⭐⭐⭐⭐
-- [x] Ordem na Casa com Marie Kondo: Temporada 1 [Netflix] ⭐⭐⭐⭐⭐
-- [x] A Máfia dos Tigres: Minissérie [Netflix] ⭐⭐⭐⭐⭐
-- [x] MINDHUNTER: Temporada 1 [Netflix] ⭐⭐⭐⭐⭐
-- [x] Blade Runner 2049 [Netflix] ⭐⭐⭐⭐⭐
-- [x] O Diabo de Cada Dia [Netflix] ⭐⭐⭐⭐⭐
-- [x] Homem-Aranha: De Volta ao Lar [Disney Plus] ⭐⭐⭐⭐⭐
-- [x] O Poço [Netflix] ⭐⭐⭐⭐⭐
-- [x] Democracia em Vertigem [Netflix] ⭐⭐⭐⭐⭐
-- [x] BoJack Horseman: Temporada 6 [Netflix] ⭐⭐⭐⭐⭐
-- [x] Hannah Gadsby: Douglas [Netflix] ⭐⭐⭐⭐⭐
-- [x] Hannah Gadsby: Nanette [Netflix] ⭐⭐⭐⭐⭐
-- [x] Ursos sem Curso: Temporada 1 [Netflix] ⭐⭐⭐⭐⭐
-- [x] Tenet [HBO Max] ⭐⭐⭐⭐
-- [x] Midsommar [Amazon Prime] ⭐⭐⭐⭐
-- [x] Hereditary [Amazon Prime] ⭐⭐⭐⭐
-- [x] The Perks of Being a Wallflower [Amazon Prime] ⭐⭐⭐⭐
-- [x] Avangers Ultimato  [Disney Plus] ⭐⭐⭐⭐
-- [x] WandaVision  [Disney Plus] ⭐⭐⭐⭐
-- [x] Luca  [Disney Plus] ⭐⭐⭐⭐
-- [x] 2020 Nunca Mais [Netflix] ⭐⭐⭐⭐
-- [x] Lady Bird [Netflix] ⭐⭐⭐⭐
-- [x] O Hospedeiro [Netflix] ⭐⭐⭐⭐
-- [x] Matrix [Netflix] ⭐⭐⭐⭐
-- [x] Demon Slayer: Kimetsu no Yaiba [Netflix] ⭐⭐⭐⭐
-- [x] Shingeki no kiojin: Final Season [Chrunchroll] ⭐⭐⭐⭐
-- [x] A Era dos Dados: Temporada 1 [Netflix] ⭐⭐⭐⭐
-- [x] Mundo Mistério: Temporada 1 [Netflix] ⭐⭐⭐⭐
-- [x] O Mundo Sombrio de Sabrina: Parte 3 [Netflix] ⭐⭐⭐⭐
-- [x] Sex Education: Temporada 2 [Netflix] ⭐⭐⭐⭐
-- [x] A Vida em Outros Planetas: Temporada 1 [Netflix] ⭐⭐⭐⭐
-- [x] O Dilema das Redes [Netflix] ⭐⭐⭐⭐
-- [x] Enola Holmes [Netflix] ⭐⭐⭐⭐
-- [x] Sergio [Netflix] ⭐⭐⭐⭐
-- [x] Guerra Mundial Z [Netflix] ⭐⭐⭐⭐
-- [x] O Serviço de Entregas da Kiki [Netflix] ⭐⭐⭐⭐
-- [x] The Promised Neverland: Temporada 1 [Netflix] ⭐⭐⭐⭐
-- [x] Borat: Subsequence movie filme [Amazon Prime] ⭐⭐⭐
-- [x] Falcão e Soldado Invernal  [Disney Plus] ⭐⭐⭐
-- [x] Framing Britney Spears [Globo Play] ⭐⭐⭐
-- [x] BBB 21 [Globo Play] ⭐⭐⭐
-- [x] Matrix Reloaded [Netflix] ⭐⭐⭐
-- [x] The Circle Brasil: Temporada 1 [Netflix] ⭐⭐⭐
-- [x] The Circle: Temporada 1 [Netflix] ⭐⭐⭐
-- [x] O Homem de Aço [Netflix] ⭐⭐⭐
-- [x] O Espetacular Homem-Aranha [Netflix] ⭐⭐⭐
-- [x] Friends the Reunion [HBO Max] ⭐⭐
-- [x] Resident Evil Infinity Darkness [Netflix] ⭐⭐
-- [ ] Tales From The Loop [Amazon Prime]
+- [x] |⭐⭐⭐⭐⭐| Watchmen, Assistido [HBO Max]
+- [x] |⭐⭐⭐⭐⭐| It Follows [Amazon Prime]
+- [x] |⭐⭐⭐⭐⭐| Fleabag  [Amazon Prime]
+- [x] |⭐⭐⭐⭐⭐| Lovecraft County [HBO Max]
+- [x] |⭐⭐⭐⭐⭐| Olimpiadas de Tokyo 2020 [Globo Play]
+- [x] |⭐⭐⭐⭐⭐| Loki [Disney Plus]
+- [x] |⭐⭐⭐⭐⭐| O Caso Evandro [Globo Play]
+- [x] |⭐⭐⭐⭐⭐| Drive  [Globo Play]
+- [x] |⭐⭐⭐⭐⭐| O Gambito da Rainha  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Blade Runner 2049  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Get Out  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Akira  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Vidas ao Vento [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Atypica: Temporada Final [Netflix]
+- [x] |⭐⭐⭐⭐⭐| The Umbrella Academy: Temporada 2  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Ordem na Casa com Marie Kondo: Temporada 1 [Netflix]
+- [x] |⭐⭐⭐⭐⭐| A Máfia dos Tigres: Minissérie [Netflix]
+- [x] |⭐⭐⭐⭐⭐| MINDHUNTER: Temporada 1  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Blade Runner 2049  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| O Diabo de Cada Dia  [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Homem-Aranha: De Volta ao Lar  [Disney Plus]
+- [x] |⭐⭐⭐⭐⭐| O Poço [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Democracia em Vertigem [Netflix]
+- [x] |⭐⭐⭐⭐⭐| BoJack Horseman: Temporada 6 [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Hannah Gadsby: Douglas [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Hannah Gadsby: Nanette [Netflix]
+- [x] |⭐⭐⭐⭐⭐| Ursos sem Curso: Temporada 1 [Netflix]
+- [x] |⭐⭐⭐⭐💢| Tenet  [HBO Max]
+- [x] |⭐⭐⭐⭐💢| Midsommar  [Amazon Prime]
+- [x] |⭐⭐⭐⭐💢| Hereditary [Amazon Prime]
+- [x] |⭐⭐⭐⭐💢| The Perks of Being a Wallflower  [Amazon Prime]
+- [x] |⭐⭐⭐⭐💢| Avangers Ultimato  [Disney Plus]
+- [x] |⭐⭐⭐⭐💢| WandaVision  [Disney Plus]
+- [x] |⭐⭐⭐⭐💢| Luca   [Disney Plus]
+- [x] |⭐⭐⭐⭐💢| 2020 Nunca Mais  [Netflix]
+- [x] |⭐⭐⭐⭐💢| Lady Bird  [Netflix]
+- [x] |⭐⭐⭐⭐💢| O Hospedeiro [Netflix]
+- [x] |⭐⭐⭐⭐💢| Matrix [Netflix]
+- [x] |⭐⭐⭐⭐💢| Demon Slayer: Kimetsu no Yaiba [Netflix]
+- [x] |⭐⭐⭐⭐💢| Shingeki no kiojin: Final Season [Chrunchroll]
+- [x] |⭐⭐⭐⭐💢| A Era dos Dados: Temporada 1 [Netflix]
+- [x] |⭐⭐⭐⭐💢| Mundo Mistério: Temporada 1  [Netflix]
+- [x] |⭐⭐⭐⭐💢| O Mundo Sombrio de Sabrina: Parte 3  [Netflix]
+- [x] |⭐⭐⭐⭐💢| Sex Education: Temporada 2 [Netflix]
+- [x] |⭐⭐⭐⭐💢| A Vida em Outros Planetas: Temporada 1 [Netflix]
+- [x] |⭐⭐⭐⭐💢| O Dilema das Redes [Netflix]
+- [x] |⭐⭐⭐⭐💢| Enola Holmes [Netflix]
+- [x] |⭐⭐⭐⭐💢| Sergio [Netflix]
+- [x] |⭐⭐⭐⭐💢| Guerra Mundial Z [Netflix]
+- [x] |⭐⭐⭐⭐💢| O Serviço de Entregas da Kiki  [Netflix]
+- [x] |⭐⭐⭐⭐💢| O Espetacular Homem-Aranha [Netflix]
+- [x] |⭐⭐⭐💢💢| The Promised Neverland: Temporada 1  [Netflix]
+- [x] |⭐⭐⭐💢💢| Borat: Subsequence movie filme [Amazon Prime]
+- [x] |⭐⭐⭐💢💢| Falcão e Soldado Invernal  [Disney Plus]
+- [x] |⭐⭐⭐💢💢| Framing Britney Spears [Globo Play]
+- [x] |⭐⭐⭐💢💢| BBB 21 [Globo Play]
+- [x] |⭐⭐⭐💢💢| Matrix Reloaded  [Netflix]
+- [x] |⭐⭐⭐💢💢| The Circle Brasil: Temporada 1 [Netflix]
+- [x] |⭐⭐⭐💢💢| The Circle: Temporada 1  [Netflix]
+- [x] |⭐⭐⭐💢💢| O Homem de Aço [Netflix]
+- [x] |⭐⭐💢💢💢| Friends the Reunion  [HBO Max]
+- [x] |⭐⭐💢💢💢| Resident Evil Infinity Darkness  [Netflix]
+
+---
+## Na lista: 
+
+- [ ] Tales From The Loop  [Amazon Prime]
 - [ ] Greg News - Quinta Temporada [HBO Max]
 - [ ] Mulher-Maravilha 1984 [HBO Max]
 - [ ] The Mandalorian [Disney Plus]
