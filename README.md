@@ -6,7 +6,7 @@
 
 - 👨‍💻&nbsp;I learned to code in 2006.
 - 🎓&nbsp;I studied bachelor in computer science up until 2010 at <a href="https://www.cesupa.br/"> CESUPA</a> (Belém, PA - Brazil).
-- 📪&nbsp;I living at São Paulo - Brazil.
+- 📪&nbsp;I'm living at São Paulo - Brazil.
 - 💼&nbsp;Currently working remotely at <a href="https://github.com/Pagnet"> Blu</a>.
 
 <br/>
