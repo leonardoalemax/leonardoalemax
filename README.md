@@ -1,15 +1,18 @@
 # [![Header](/icons/header.svg "LeoAlemax")](https://github.com/leonardoalemax)
 
 
+
 # Hi there! <img src="icons/wave.gif" width="29px">
 
 
 - 👨‍💻&nbsp;I learned to code in 2006.
 - 🎓&nbsp;I studied bachelor in computer science up until 2010 at <a href="https://www.cesupa.br/"> CESUPA</a> (Belém, PA - Brazil).
 - 📪&nbsp;I'm living at São Paulo - Brazil.
-- 💼&nbsp;Currently working remotely at <a href="https://github.com/Pagnet"> Blu</a>.
+- 💼&nbsp;Currently working remotely at <a href="https://www.bemobi.com.br/"> Bemobi</a>.
 
 <br/>
+
+<a rel="me" href="https://retromodding.club/@alemax">Follow Me @retromodding.club Mastodon</a>
 
 <p align="center">
   <img src="icons/line.svg" />
