@@ -1,4 +1,4 @@
-# [![Header](/icons/header.svg "LeoAlemax")](https://github.com/leonardoalemax)
+# [![Header](/icons/header.svg "LeoAlemax")](https://github.com/leonardoalemax)Cancel changes
 
 
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-<a rel="me" href="https://retromodding.club/@alemax">Follow Me @retromodding.club Mastodon</a>
+<a rel="me" href="https://retro.pizza/@alemax">Follow Me at Mastodon</a>
 
 <p align="center">
   <img src="icons/line.svg" />
