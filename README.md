@@ -1,4 +1,4 @@
-# [![Header](/icons/header.svg "LeoAlemax")](https://github.com/leonardoalemax)Cancel changes
+# [![Header](/icons/header.svg "LeoAlemax")](https://github.com/leonardoalemax)
 
 
 
