@@ -8,7 +8,7 @@
 - 👨‍💻&nbsp;I learned to code in 2006.
 - 🎓&nbsp;I studied bachelor in computer science up until 2010 at <a href="https://www.cesupa.br/"> CESUPA</a> (Belém, PA - Brazil).
 - 📪&nbsp;I'm living at São Paulo - Brazil.
-- 💼&nbsp;Currently working remotely at <a href="https://www.bemobi.com.br/"> Bemobi</a>.
+- 💼&nbsp;Currently working remotely at <a href="https://www.mosaico.com.br/"> Mosaico</a>.
 
 <br/>
 
@@ -32,7 +32,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalemax&theme=midnight-purple"/>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoalemax&show_icons=true&theme=midnight-purple&count_private=true&show_icons=true&hide_title=true"/>  
 </p>
 
 <p align="center">
